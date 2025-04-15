@@ -1,7 +1,7 @@
 /**
 * Author: Ryan Wong
 * Assignment: Pong Clone
-* Date due: 2025-3-01, 11:59pm
+* Date due: 2025-3-01, 11:59 PM
 * I pledge that I have completed this assignment without
 * collaborating with anyone else, in conformance with the
 * NYU School of Engineering Policies and Procedures on
@@ -25,6 +25,7 @@
 #include "stb_image.h"
 #include "cmath"
 #include <ctime>
+
 
 enum AppStatus { RUNNING, TERMINATED };
 
