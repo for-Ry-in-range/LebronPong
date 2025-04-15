@@ -1,6 +1,6 @@
 /**
-* Author: RyanWong
-* Assignment: PongClone
+* Author: Ryan Wong
+* Assignment: Pong Clone
 * Date due: 2025/3/01, 11:59 PM
 * I pledge that I have completed this assignment without
 * collaborating with anyone else, in conformance with the
